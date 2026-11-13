@@ -13,7 +13,9 @@ export const PERSONAL_INFO = {
   github: 'https://github.com/QuamLepus',
   linkedin: 'https://www.linkedin.com/in/mjisannurine',
   twitter: 'https://x.com/mjisannurinen',
-  policyNotice: '© 2024 M Jisan Nurine. All rights reserved. Unauthorized reproduction, distribution, or use of this portfolio\'s code, design, or content is strictly prohibited. This site does not collect or share personal data without consent.',
+  appVersion: 'v2026.11',
+  policySummary: 'All rights reserved. Unauthorized reproduction or distribution of this portfolio\'s content is strictly prohibited.',
+  policyNotice: 'This portfolio, including all custom source code, visual architecture, project documentation, and technical articles, is the intellectual property of M Jisan Nurine. Unauthorized reproduction, scraping, redistribution, or commercial use without explicit written consent is strictly prohibited. This website operates without tracking cookies or third-party behavioral analytics and does not collect or share personal data without explicit user submission via the contact form.',
   portraitImage: '/src/assets/images/jisan_real_portrait.png'
 };
 
